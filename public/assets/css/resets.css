@@ -1,0 +1,13 @@
+.jp-playlist{
+    background-color: #FFFFFF !important;
+
+}
+.jp-playlist-item, .jp-playlist-current, .jp-playlist-item-free, .jp-free-media{
+    color: #000000 !important;
+
+}
+
+.jp-audio, .jp-audio-stream, .jp-video{
+    border: 8px solid #787878 !important;
+
+}
